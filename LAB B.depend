@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1763102867 source:c:\users\momong\documents\comprog-project\lab b\main.c
+	<stdio.h>
+	<stdlib.h>
+

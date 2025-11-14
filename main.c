@@ -13,5 +13,6 @@ int main()
     printf("initial letter of the name: %c \n", initial_name);
     printf("My Grade: %f \n", my_grade);
     printf("My Grade with specific number of decimal %.2f \n",my_grade);
+    printf("sample changes");
     return 0;
 }
